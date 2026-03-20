@@ -1,1 +1,4 @@
 # OfficeClaw
+
+OfficeClaw is a customized, feature-rich variant of the original OpenClaw framework, exclusively engineered to integrate a comprehensive suite of professional office skills. Unlike the general-purpose OpenClaw, this project focuses entirely on optimizing office productivity, eliminating tedious manual tasks, and driving a transformative shift in traditional office work patterns.
+Our core mission is to liberate office workers from repetitive, low-value workloads and redefine the way modern office work is executed, making daily operations more efficient, intelligent, and streamlined.
